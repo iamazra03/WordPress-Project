@@ -1,0 +1,336 @@
+.customizer-settings {
+    display: flex;
+    gap: 24px;
+
+    .cw-customizer {
+        width: 70%;
+
+        .cw-settings {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 24px;
+
+            h2 {
+                font-size: 20px;
+            }
+        }
+    }
+
+    .cw-sidebar {
+        width: 30%;
+
+        .cw-sidebar-list {
+            background: $white-color;
+            padding: 24px 16px;
+            border-radius: 16px;
+
+            .cw-sidebarbody {
+                padding-bottom: 32px;
+                border-bottom: 1px solid $border-color;
+                padding-top: 30px;
+
+                &:first-child {
+                    padding-top: 0;
+                }
+
+                &:last-child {
+                    border-bottom: 0;
+                }
+
+                .cw-button {
+                    .cw-button-btn {
+                        svg {
+                            margin-right: 8px;
+                        }
+
+                        &:hover {
+                            path {
+                                stroke: $white-color;
+                            }
+                        }
+                    }
+                }
+
+                h3 {
+                    margin-bottom: 8px;
+                }
+            }
+        }
+    }
+
+    .cw-card {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 16px;
+        margin-bottom: 32px;
+
+        &.two-col {
+            grid-template-columns: repeat(2, 1fr);
+            text-align: left;
+        }
+
+        .cw-cardbody {
+            background: $white-color;
+            padding: 24px 8px;
+            text-align: center;
+            border-radius: 8px;
+
+            &.cw-two-col {
+                text-align: left;
+                display: flex;
+                justify-content: space-between;
+                padding: 24px 14px 24px 24px;
+            }
+
+            .cw-icon {
+                margin-bottom: 24px;
+            }
+        }
+
+        .cw-heading {
+            font-size: 16px;
+            margin-bottom: 16px;
+
+        }
+
+        .cw-procard {
+            .cw-pro-heading {
+                margin-bottom: 16px;
+            }
+        }
+    }
+}
+
+
+:is(.cw-button, .cw-button) {
+    font-size: 14px;
+
+    :is(.cw-btn, .cw-button-btn) {
+        svg {
+            margin-left: 8px;
+            vertical-align: middle;
+        }
+
+        &.primary-btn {
+            svg {
+                path {
+                    stroke: $white-color;
+
+                    &:hover {
+                        stroke: $primary-color;
+                    }
+                }
+            }
+
+            &:hover {
+                svg {
+                    path {
+                        stroke: $primary-color;
+                    }
+                }
+            }
+        }
+
+        &:is(.outline-btn, .cw-btn) {
+            svg {
+                path {
+                    stroke: $primary-color;
+                }
+            }
+        }
+    }
+}
+
+.cw-btn {
+    color: $font-color;
+    transition: color 0.3s;
+    font-weight: 500;
+
+    &:hover {
+        color: $primary-color;
+    }
+}
+
+.cw-card {
+    display: grid;
+    gap: 16px;
+    margin-bottom: 32px;
+
+    &.three-col {
+        grid-template-columns: repeat(3, 1fr);
+        text-align: center;
+
+        .cw-text-wrap {
+            margin-top: 24px;
+        }
+    }
+
+    &.two-col {
+        grid-template-columns: repeat(2, 1fr);
+        text-align: left;
+
+        .cw-cardbody {
+            padding: 24px 14px 24px 24px;
+            display: flex;
+            justify-content: space-between;
+
+            .cw-text-wrap {
+                text-align: left;
+            }
+        }
+    }
+
+    &.starter {
+        &.three-col {
+            grid-template-columns: repeat(3, 1fr);
+            text-align: center;
+            gap: 30px;
+
+            .cw-cardbody {
+                background: none;
+                padding: 0;
+                transition: box-shadow 0.3s ease-in-out;
+
+                &:hover {
+                    box-shadow: 0px 40px 40px -40px rgba(3, 1, 60, 0.16);
+                }
+
+                .cw-icon {
+                    margin-bottom: -4px;
+
+                    img {
+                        width: 100%;
+                        height: 100%;
+                        object-fit: cover;
+                        border-radius: 8px 8px 0 0;
+                    }
+                }
+
+                .cw-text-wrap {
+                    display: flex;
+                    justify-content: space-between;
+                    background: $white-color;
+                    padding: 24px;
+                    gap: 20px;
+                    align-items: center;
+                    margin-top: 0;
+                    border-radius: 0 0 8px 8px;
+
+                    .cw-heading {
+                        margin-bottom: 0;
+                    }
+                }
+            }
+        }
+    }
+
+    &.cw-offer-card {
+        gap: 24px;
+
+        .cw-cardbody {
+            padding: 32px 24px 24px;
+
+            .cw-icon {
+                margin-bottom: 32px;
+            }
+
+            .cw-heading {
+                font-size: 18px;
+                font-weight: 600;
+                margin-bottom: 8px;
+            }
+
+            p {
+                margin-bottom: 12px;
+            }
+
+            .cw-button {
+
+                .cw-btn {
+                    color: $primary-color;
+                }
+
+                &:hover:is(:hover, :active, :visited) svg {
+                    transform: translateX(5px);
+                    transition: all 0.3s;
+                }
+            }
+        }
+    }
+
+    .cw-cardbody {
+        background: $white-color;
+        padding: 24px 8px;
+        border-radius: 8px;
+
+        &.cw-two-col {
+            text-align: left;
+            display: flex;
+            justify-content: space-between;
+            padding: 24px 14px 24px 24px;
+        }
+
+        .cw-icon {
+            margin-bottom: 24px;
+        }
+    }
+
+    .cw-heading {
+        font-size: 16px;
+        margin-bottom: 16px;
+
+    }
+
+    .cw-procard {
+        .cw-pro-heading {
+            margin-bottom: 16px;
+        }
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .customizer-settings {
+        flex-direction: column;
+
+        .cw-customizer {
+            width: 100%;
+        }
+
+        .cw-sidebar {
+            width: 100%;
+        }
+    }
+
+    .cw-card {
+        &.starter {
+            &.three-col {
+                grid-template-columns: repeat(2, 1fr);
+                text-align: center;
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .customizer-settings {
+        .cw-card {
+            &.two-col {
+                grid-template-columns: repeat(1, 1fr);
+                text-align: center;
+            }
+        }
+    }
+}
+
+// video section
+
+.video-section {
+    margin-bottom: 32px;
+
+    iframe {
+        width: 100%;
+        aspect-ratio: 16 / 9;
+        border-radius: 16px;
+    }
+}

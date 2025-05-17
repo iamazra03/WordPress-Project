@@ -1,0 +1,45 @@
+.cw-plugin-list-wrapper {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 30px;
+
+    .cw-plugin-list {
+        background-color: $white-color;
+        border-radius: 16px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+
+        .plugin-detail {
+            padding: 24px 24px 8px;
+
+            .cw-plugin-title {
+                display: flex;
+                gap: 12px;
+                margin-bottom: 16px;
+                align-items: center;
+
+                svg {
+                    max-width: 40px;
+                }
+                .cwLabel{
+                    width: 100%;
+                }
+            }
+
+            .description {
+                color: $secondary-font-color;
+            }
+        }
+
+        .insert-button {
+            padding: 16px 24px;
+            border-top: 1px solid $border-color;
+
+            button {
+                padding: 8px 32px;
+                line-height: 2;
+            }
+        }
+    }
+}

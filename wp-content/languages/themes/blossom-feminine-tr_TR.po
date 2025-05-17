@@ -1,0 +1,1794 @@
+# Translation of Themes - Blossom Feminine in Turkish
+# This file is distributed under the same license as the Themes - Blossom Feminine package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-09-25 13:40:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: tr\n"
+"Project-Id-Version: Themes - Blossom Feminine\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Blossom Feminine is free feminine and chic WordPress blog theme to create stunning, lively and eye catching website. Whether you want to share your expert fashion tips, your favorite recipes or create a lifestyle, travel, food, beauty, make-up, coaching, wedding, portfolio, personal, girly, parenting or cooking blog, Blossom Feminine is an ideal choice for you. You can easily customize your website using the typography and color features. You can change the color to pink, purple, or any color you like. Blossom Feminine is mobile friendly and fully responsive to ensure your website looks great in different sized devices. Beautifully placed Instagram section can be used to show your Instagram account and increase your followers. The advertisement widget in the theme will help you easily monetize your blog. The well placed Newsletter section will help you to grow your email list and keep in touch with your visitors. Blossom Feminine is SEO friendly and speed optimized. The theme is translation ready and supports RTL and WooCommerce plugin for your utmost benefit. In addition, Blossom Feminine is backed by world class, one-on-one support, and a super active team of developers and designers ready to help! Check demo: https://blossomthemes.com/theme-demo/?theme=blossom-feminine, read documentation: https://docs.blossomthemes.com/docs/blossom-feminine/, and get support: https://blossomthemes.com/support-ticket/."
+msgstr "Blossom Feminen, çarpıcı, canlı ve göz alıcı bir web sitesi yaratmak için, ücretsiz, feminen ve şık bir WordPress blog temasıdır. İster uzman moda ipuçlarınızı, favori tariflerinizi paylaşmak, isterseniz bir yaşam tarzı, seyahat, yemek, güzellik, makyaj, koçluk, düğün, portföy, kişisel, kızsal, ebeveynlik veya aşçılık konularında blog oluşturmak için, Blossom Feminen sizin için ideal bir seçimdir. Tipografi ve renk özelliklerini kullanarak web sitenizi kolayca özelleştirebilirsiniz. Rengi pembe, mor veya istediğiniz herhangi bir renge değiştirebilirsiniz. Blossom Feminen, web sitenizin farklı boyutlardaki cihazlarda harika görünmesini sağlamak üzere mobil uyumludur ve tamamen responsive olarak tasarlanmıştır. Güzel yerleştirilmiş Instagram bölümü, Instagram hesabınızı göstermek ve takipçilerinizi artırmak için kullanılabilir. Temadaki reklam bileşeni, blogunuzdan kolayca para kazanmanıza yardımcı olur. İyi yerleştirilmiş Haber Bülteni bölümü, e-posta listenizi büyütmenize ve ziyaretçilerinizle iletişim halinde olmanıza yardımcı olacaktır. Blossom Feminen, SEO dostudur ve hızı en uygun düzeye getirilmiştir. Tema çeviriye hazırdır ve en yüksek faydayı sağlamanız  için RTL ve WooCommerce eklentilerini desteklemektedir. Bunların yanısıra, Blossom Feminen dünya çapında bire bir desteğe sahiptir ve yardım etmeye hazır süper aktif bir geliştirme ve tasarım ekibi tarafından desteklenmektedir! Demoya göz atın: https://blossomthemes.com/theme-demo/?theme=blossom-feminine, belgeleri okuyun: https://docs.blossomthemes.com/docs/blossom-feminine/ ve destek alın: https://blossomthemes.com/support-ticket/."
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Blossom Feminine"
+msgstr "Blossom Feminen"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:441
+#: inc/custom-controls/repeater/class-control-repeater.php:443
+msgid "Change File"
+msgstr "Dosya değiştir"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:441
+#: inc/custom-controls/repeater/class-control-repeater.php:445
+msgid "Add File"
+msgstr "Dosya ekle"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:430
+#: inc/custom-controls/repeater/class-control-repeater.php:435
+msgid "No File Selected"
+msgstr "Dosya seçilmedi"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:405
+#: inc/custom-controls/repeater/class-control-repeater.php:407
+msgid "Change Image"
+msgstr "Görseli değiştir"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:405
+#: inc/custom-controls/repeater/class-control-repeater.php:409
+msgid "Add Image"
+msgstr "Görsel Ekle"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:404
+#: inc/custom-controls/repeater/class-control-repeater.php:469
+msgid "Remove"
+msgstr "Kaldır"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:394
+#: inc/custom-controls/repeater/class-control-repeater.php:399
+msgid "No Image Selected"
+msgstr "Görsel seçilmedi"
+
+#: inc/template-functions.php:68 inc/template-functions.php:133
+msgid "Mobile"
+msgstr "Mobil"
+
+#: inc/template-functions.php:132
+msgid "Close"
+msgstr "Kapat"
+
+#: inc/template-functions.php:41
+msgid "skip to content"
+msgstr "içeriğe geç"
+
+#: inc/template-functions.php:59
+msgid "secondary menu toggle button"
+msgstr " ikincil menü aç-kapat tuşu"
+
+#: inc/template-functions.php:85
+msgid "search toggle button"
+msgstr " ara aç-kapat tuşu"
+
+#: inc/template-functions.php:129
+msgid "primary menu toggle button"
+msgstr "ana menü aç-kapat tuşu"
+
+#: inc/template-functions.php:1118
+msgid "go to top button"
+msgstr "başa git tuşu"
+
+#: build/dashboard.js:5723 src/pages/FAQ/index.jsx:12
+msgid "With the Pro version, you can change the look and feel of your website in seconds. In just a few clicks, you can change the color and typography of your website. The premium version lets you have better control over the theme as it comes with more customization options. Not just that, the theme also has more sections and layout options as compared to the free version. The Pro version is multi-language compatible as well."
+msgstr "Pro sürümü ile, web sitenizin görünümünü saniyeler içinde değiştirebilirsiniz. Sadece birkaç tıklama ile, web sitenizin rengini ve yazı tiplerini değiştirebilirsiniz. Ücretli versiyon, daha fazla uyarlama seçeneği sayesinde size tema üzerinde daha iyi bir kontrol sağlar. Sadece bu da değil, temamız aynı zamanda ücretsiz versiyona kıyasla daha fazla bölüm ve yerleşim seçeneği de sunmaktadır. Pro sürümü çoklu dil desteğine de sahiptir."
+
+#: inc/template-functions.php:41
+msgid "Skip to Content"
+msgstr "İçeriğe geç"
+
+#: inc/tgmpa/recommended-plugins.php:71 build/dashboard.js:6218
+#: src/pages/UsefulPlugins/index.jsx:17
+msgid "Regenerate Thumbnails"
+msgstr "Küçük görselleri yeniden oluştur "
+
+#: inc/tgmpa/recommended-plugins.php:56 build/dashboard.js:6214
+#: src/pages/UsefulPlugins/index.jsx:12
+msgid "BlossomThemes Email Newsletter"
+msgstr "BlossomThemes e-posta haber bülteni "
+
+#: inc/tgmpa/recommended-plugins.php:51 build/dashboard.js:6210
+#: src/pages/UsefulPlugins/index.jsx:7
+msgid "BlossomThemes Toolkit"
+msgstr "BlossomThemes araçları"
+
+#: inc/customizer/general.php:802
+msgid "Hide Comments"
+msgstr "Yorumlar gizlensin"
+
+#: inc/customizer/general.php:803
+msgid "Enable to hide Comments."
+msgstr "Yorumları gizlemeyi etkinleştir. "
+
+#: inc/customizer/general.php:242
+msgid "Slider Auto"
+msgstr "Slaytçı otomatik akışı"
+
+#: inc/customizer/general.php:243
+msgid "Enable slider auto transition."
+msgstr "Slayt gösterisi aracının otomatik akışını etkinleştir."
+
+#: inc/template-functions.php:1086
+msgid "Blossom Feminine | Developed By "
+msgstr "Blossom Feminen | Geliştiren"
+
+#: inc/custom-functions.php:458
+msgid "Dismiss"
+msgstr "Kapat"
+
+#: inc/custom-functions.php:456
+msgid "%1$s is now installed and ready to use. Click below to see theme documentation, plugins to install and other details to get started."
+msgstr "%1$s yüklendi ve kullanıma hazır. Tema belgelerini, yüklenecek eklentileri ve başlamak için diğer ayrıntıları görmek için aşağıyı tıklayın."
+
+#: inc/custom-functions.php:455
+msgid "Congratulations!"
+msgstr "Tebrikler!"
+
+#: build/dashboard.js:5757 src/pages/FAQ/index.jsx:53
+msgid "Also, you might experience a slower response time during the weekend, so please bear with us."
+msgstr "Ayrıca, hafta sonu boyunca daha uzun bir yanıt süresi ile karşılaşabilirsiniz, bu yüzden lütfen bizimle kalmaya devam edin."
+
+#: build/dashboard.js:5754 src/pages/FAQ/index.jsx:51
+msgid "Before you send us a support ticket for any issues, please make sure you have updated the theme to the latest version. We might have fixed the bug in the theme update."
+msgstr "Herhangi bir sorun için bize destek bileti göndermeden önce, lütfen temayı en son sürüme güncellemiş olduğunuzdan emin olun. Tema güncellemesi ile hatayı zaten düzeltmiş olabiliriz."
+
+#: build/dashboard.js:5753 src/pages/FAQ/index.jsx:48
+msgid "How can I solve my issues quickly and get faster support?"
+msgstr "Sorunlarımı nasıl çabuk çözebilir ve daha hızlı destek alabilirim?"
+
+#: build/dashboard.js:5743 src/pages/FAQ/index.jsx:41
+msgid "If your customizer is not loading properly or you are having issues with the theme, it might be due to the plugin conflict."
+msgstr "Özelleştiriciniz düzgün yüklenmiyorsa veya tema ile ilgili sorun yaşıyorsanız, nedeni eklenti çakışması olabilir."
+
+#: build/dashboard.js:5742 src/pages/FAQ/index.jsx:38
+msgid "Why is my theme not working well?"
+msgstr "Neden temam düzgün çalışmıyor?"
+
+#: build/dashboard.js:5735 src/pages/FAQ/index.jsx:32
+msgid "How do I change the copyright text?"
+msgstr "Telif hakkı metnini nasıl değiştirebilirim?"
+
+#: build/dashboard.js:5733 src/pages/FAQ/index.jsx:27
+msgid "The Pro version is built with lots of flexibility in mind for future upgrades. Therefore, it is slightly different than the free theme but extremely flexible and easy-to-use."
+msgstr "Ücretli sürüm, gelecekteki yükseltmeler düşünülerek bir çok esneklikle tasarlanmıştır. Bu nedenle, ücretsiz temadan biraz farklıdır, ancak son derece esnek ve kullanımı kolaydır."
+
+#: build/dashboard.js:5733 src/pages/FAQ/index.jsx:25
+msgid "When you upgrade to the Pro theme, your posts, pages, media, categories, and other data will remain intact-- all your data is saved."
+msgstr "Ücretli temaya yükseltme yaptığınızda, yazı, sayfa, ortam dosyaları, kategori ve diğer verileriniz aynı kalır; tüm verileriniz korunur."
+
+#: build/dashboard.js:5732 src/pages/FAQ/index.jsx:22
+msgid "Upgrading to the Pro version- will I lose my changes?"
+msgstr "Ücretli sürüme yükseltme yaparken - değişikliklerimi kaybeder miyim?"
+
+#: build/dashboard.js:5730 src/pages/FAQ/index.jsx:19
+msgid "With Premium version, besides the extra features and frequent updates, you get premium support. If you run into any theme issues, you will get a lot quicker response compared to the free support."
+msgstr "Premium sürümde, ek özelliklerin ve sık güncellemelerin yanı sıra premium destek alırsınız. Herhangi bir tema sorunuyla karşılaşırsanız, ücretsiz desteğe kıyasla çok daha hızlı yanıt alırsınız."
+
+#: build/dashboard.js:5729 src/pages/FAQ/index.jsx:18
+msgid "What are the advantages of upgrading to the Premium version?"
+msgstr "Premium sürüme yükseltmenin avantajları nelerdir?"
+
+#: build/dashboard.js:5723 src/pages/FAQ/index.jsx:11
+msgid "Both Free and Pro version of the themes are well-built. However, the Pro version comes with many additional features."
+msgstr "Temaların gerek ücretsiz gerekse ücretli sürümleri iyi tasarlanmıştır. Ancak, ücretli sürüm birçok ek özellik içermektedir."
+
+#: build/dashboard.js:5722 src/pages/FAQ/index.jsx:8
+msgid "What is the difference between Free and Pro?"
+msgstr "Ücretsiz ve ücretli sürüm arasındaki farklar nelerdir?"
+
+#: build/dashboard.js:5733 src/pages/FAQ/index.jsx:26
+msgid "However, since the Pro version comes with added features and settings, you will need to set up the additional features in the customizer. This process is simple and only takes a few minutes."
+msgstr "Öte yandan, ücretli sürüm ek özellikler ve ayarlara sahip olduğundan özelleştiricideki ek özellikleri ayarlamanız gerekecektir. Bu süreç kolaydır ve sadece birkaç dakikanızı alır."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:378
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Aşağıdaki önerilen eklenti şu anda etkin değil:%1$s."
+msgstr[1] "Aşağıdaki önerilen eklentiler şu anda etkin değil:%1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:372
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Aşağıdaki zorunlu eklenti şu anda etkin değil:%1$s"
+msgstr[1] "Aşağıdaki zorunlu eklentiler şu anda etkin değil:%1$s"
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:360
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Aşağıdaki eklentinin bu temayla en yüksek uyumluluğu sağlamak için en son sürümüne güncellenmesi gerekiyor: %1$s."
+msgstr[1] "Aşağıdaki eklentilerin bu temayla en yüksek uyumluluğu sağlamak için en son sürümlerine güncellenmeleri gerekiyor: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:354
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Bu tema aşağıdaki eklentiyi önermektedir:%1$s."
+msgstr[1] "Bu tema aşağıdaki eklentileri önermektedir:%1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:348
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Bu tema için aşağıdaki eklenti gereklidir:%1$s."
+msgstr[1] "Bu tema için aşağıdaki eklentiler gereklidir:%1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:366
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "%1$s için bir güncelleme var."
+msgstr[1] "%1$s için güncellemeler var."
+
+#: inc/customizer/general.php:1064
+msgid "Enable to show Shop Page Description."
+msgstr "Mağaza sayfası açıklamasını göstermeyi etkinleştir."
+
+#: inc/customizer/general.php:1063
+msgid "Shop Page Description"
+msgstr "Mağaza sayfası açıklaması"
+
+#: inc/customizer/general.php:1041
+msgid "Shop Settings"
+msgstr "Mağaza ayarları"
+
+#: inc/extras.php:287
+msgid "<b class=\"fn\" itemprop=\"creator\" itemscope itemtype=\"https://schema.org/Person\">%s</b> <span class=\"says\">says:</span>"
+msgstr "<b class=\"fn\" itemprop=\"creator\" itemscope itemtype=\"https://schema.org/Person\">%s</b> <span class=\"says\">says:</span>"
+
+#: template-parts/content-none.php:17
+msgid "Add More Posts"
+msgstr "Daha fazla yazı yükle"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:31
+msgid "Your blog posts are displayed in the slider. To display blog post here, <a href=\"%1$s\">please publish more blog posts.</a>"
+msgstr "Blog yazılarınız slaytçıda görüntüleniyor. Görüntülemek için blog yazınızı buraya yükleyin,  <a href=\"%1$s\"> lütfen daha fazla blog yazısı yayımlayın. </a>"
+
+#: inc/woocommerce-functions.php:105 inc/woocommerce-functions.php:122
+msgid "View your shopping cart"
+msgstr "Alışveriş sepetini görüntüle"
+
+#: inc/customizer/info.php:124
+msgid "VIEW PRO THEME"
+msgstr "Ücretli temayı görüntüle"
+
+#: inc/customizer/info.php:122
+msgid "Pro Available"
+msgstr "Ücretli geçerli"
+
+#: inc/customizer/info.php:11
+msgid "Demo & Documentation"
+msgstr "Demo ve belgeler"
+
+#: inc/customizer/info.php:26
+msgid "Documentation Link: %1$sClick here.%2$s"
+msgstr "Belge bağlantısı: %1$sburaya tıkla.%2$s"
+
+#: inc/customizer/info.php:24
+msgid "Demo Link: %1$sClick here.%2$s"
+msgstr "Demo bağlantısı: %1$sBuraya tıklayın.%2$s"
+
+#: inc/customizer/general.php:547
+msgid "Enable to show breadcrumb in inner pages."
+msgstr "Bağlantı haritasını iç sayfalarda göstermek için etkinleştir."
+
+#: inc/template-functions.php:582
+msgid ")"
+msgstr ")"
+
+#: inc/template-functions.php:582
+msgid " (Page"
+msgstr "(Sayfa"
+
+#: inc/template-functions.php:531
+msgid "Page %s"
+msgstr "Sayfa %s"
+
+#: inc/template-functions.php:401
+msgid "\""
+msgstr "\""
+
+#: inc/customizer/general.php:556 inc/template-functions.php:280
+#: build/dashboard.js:6404 src/pages/index.js:16
+msgid "Home"
+msgstr "Ana sayfa"
+
+#: inc/template-functions.php:254
+msgid "Search"
+msgstr "Ara"
+
+#: inc/custom-functions.php:295
+msgid "Email"
+msgstr "E-posta"
+
+#: template-parts/content-none.php:71
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Aradığınız sayfa bulunamadı. Belki arama kutusu aradığınızı bulma konusunda yardımcı olabilir."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:50
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "İlk yazınızı yayımlamak için hazır mısınız? <a href=\"%1$s\">Buradan başlayın</a>."
+
+#: template-parts/content-none.php:19
+msgid "Nothing Found"
+msgstr "Bulunamadı"
+
+#: inc/template-functions.php:1089
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: inc/template-functions.php:1089
+msgid " Powered by %s"
+msgstr "Altyapı %s"
+
+#: inc/template-functions.php:872
+msgid "Post Navigation"
+msgstr "Yazı dolaşımı"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/extras.php:135
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Düzenle <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/template-functions.php:780
+msgid "Pages:"
+msgstr "Sayfalar:"
+
+#: inc/custom-functions.php:370 inc/partials.php:36
+#: inc/template-functions.php:406 inc/template-functions.php:408
+#: inc/template-functions.php:410 inc/template-functions.php:415
+#: inc/template-functions.php:417 inc/template-functions.php:422
+msgid "Y"
+msgstr "Y"
+
+#: inc/custom-controls/typography/class-typography-control.php:110
+msgid "Invalid Value"
+msgstr "Geçersiz değer"
+
+#: inc/custom-controls/typography/class-typography-control.php:91
+msgid "Spacing"
+msgstr "Aralık"
+
+#: inc/custom-controls/typography/class-typography-control.php:90
+msgid "Height"
+msgstr "Yükseklik"
+
+#: inc/custom-controls/typography/class-typography-control.php:89
+msgid "Size"
+msgstr "Boyut"
+
+#: inc/custom-controls/typography/class-typography-control.php:88
+msgid "Style"
+msgstr "Stil"
+
+#: inc/custom-controls/typography/class-typography-control.php:87
+msgid "Variant"
+msgstr "Varyant"
+
+#: inc/custom-controls/typography/class-typography-control.php:86
+msgid "Select a font-family"
+msgstr "Bir yazı tipi ailesi seçin"
+
+#: inc/custom-controls/typography/class-typography-control.php:85
+msgid "Color"
+msgstr "Renk"
+
+#: inc/custom-controls/typography/class-typography-control.php:84
+msgid "Justify"
+msgstr "İki yana yasla"
+
+#: inc/custom-controls/typography/class-typography-control.php:83
+msgid "Center"
+msgstr "Ortala"
+
+#: inc/custom-controls/typography/class-typography-control.php:82
+msgid "Right"
+msgstr "Sağa yasla"
+
+#: inc/custom-controls/typography/class-typography-control.php:81
+msgid "Left"
+msgstr "Sola yasla"
+
+#: inc/custom-controls/typography/class-typography-control.php:80
+msgid "Bottom"
+msgstr "Alt"
+
+#: inc/custom-controls/typography/class-typography-control.php:79
+msgid "Top"
+msgstr "Üst"
+
+#: inc/custom-controls/typography/class-typography-control.php:78
+msgid "Lowercase"
+msgstr "Küçük harf"
+
+#: inc/custom-controls/typography/class-typography-control.php:77
+msgid "Uppercase"
+msgstr "Büyük harf"
+
+#: inc/custom-controls/typography/class-typography-control.php:76
+msgid "None"
+msgstr "Hiçbiri"
+
+#: inc/custom-controls/typography/class-typography-control.php:75
+msgid "Text Transform"
+msgstr "Metin dönüşümü"
+
+#: inc/custom-controls/typography/class-typography-control.php:74
+msgid "Text Align"
+msgstr "Metin hizalama"
+
+#: inc/custom-controls/typography/class-typography-control.php:73
+msgid "Letter Spacing"
+msgstr "Harf aralığı"
+
+#: inc/custom-controls/typography/class-typography-control.php:72
+msgid "Font Style"
+msgstr "Yazı tipi stili"
+
+#: inc/custom-controls/typography/class-typography-control.php:70
+msgid "Font Weight"
+msgstr "Yazı tipi kalınlığı"
+
+#: inc/custom-controls/typography/class-typography-control.php:69
+#: inc/customizer/appearance.php:90
+msgid "Font Size"
+msgstr "Yazı tipi boyutu"
+
+#: inc/custom-controls/typography/class-typography-control.php:68
+msgid "Font Family"
+msgstr "Yazı tipi ailesi"
+
+#: inc/custom-controls/typography/class-typography-control.php:67
+msgctxt "font style"
+msgid "Monospace"
+msgstr "Monospace"
+
+#: inc/custom-controls/typography/class-typography-control.php:66
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr "Sans Serif"
+
+#: inc/custom-controls/typography/class-typography-control.php:65
+msgctxt "font style"
+msgid "Serif"
+msgstr "Serif"
+
+#: inc/custom-controls/typography/class-typography-control.php:64
+msgid "Thai"
+msgstr "Tay Dili"
+
+#: inc/custom-controls/typography/class-typography-control.php:63
+msgid "Telugu"
+msgstr "Telugu"
+
+#: inc/custom-controls/typography/class-typography-control.php:62
+msgid "Tamil"
+msgstr "Tamilce"
+
+#: inc/custom-controls/typography/class-typography-control.php:61
+msgid "Gujarati"
+msgstr "Gujarati"
+
+#: inc/custom-controls/typography/class-typography-control.php:60
+msgid "Bengali"
+msgstr "Bengal dili"
+
+#: inc/custom-controls/typography/class-typography-control.php:59
+msgid "Arabic"
+msgstr "Arapça"
+
+#: inc/custom-controls/typography/class-typography-control.php:58
+msgid "Hebrew"
+msgstr "İbranice"
+
+#: inc/custom-controls/typography/class-typography-control.php:57
+msgid "Vietnamese"
+msgstr "Vietnamca"
+
+#: inc/custom-controls/typography/class-typography-control.php:56
+msgid "Latin Extended"
+msgstr "Latin genişletilmiş"
+
+#: inc/custom-controls/typography/class-typography-control.php:55
+msgid "Latin"
+msgstr "Latince"
+
+#: inc/custom-controls/typography/class-typography-control.php:54
+msgid "Khmer"
+msgstr "Kmer dili"
+
+#: inc/custom-controls/typography/class-typography-control.php:53
+msgid "Greek Extended"
+msgstr "Yunan genişletilmiş"
+
+#: inc/custom-controls/typography/class-typography-control.php:52
+msgid "Greek"
+msgstr "Yunanca"
+
+#: inc/custom-controls/typography/class-typography-control.php:51
+msgid "Devanagari"
+msgstr "Devanagari"
+
+#: inc/custom-controls/typography/class-typography-control.php:50
+msgid "Cyrillic Extended"
+msgstr "Kiril genişletilmiş"
+
+#: inc/custom-controls/typography/class-typography-control.php:49
+msgid "Cyrillic"
+msgstr "Kiril"
+
+#: inc/custom-controls/typography/class-typography-control.php:48
+msgid "All"
+msgstr "Hepsi"
+
+#: inc/custom-controls/typography/class-typography-control.php:47
+msgid "OFF"
+msgstr "KAPALI"
+
+#: inc/custom-controls/typography/class-typography-control.php:46
+msgid "ON"
+msgstr "AÇIK"
+
+#: inc/custom-controls/typography/class-fonts.php:216
+#: inc/custom-controls/typography/class-typography-control.php:106
+msgid "Extra-Bold 800"
+msgstr "Extra-Bold 800"
+
+#: inc/custom-controls/typography/class-fonts.php:208
+#: inc/custom-controls/typography/class-typography-control.php:98
+msgid "Normal 400"
+msgstr "Normal 400"
+
+#: inc/custom-controls/typography/class-fonts.php:207
+#: inc/custom-controls/typography/class-typography-control.php:97
+msgid "Book 300 Italic"
+msgstr "Book 300 Italic"
+
+#: inc/custom-controls/typography/class-fonts.php:206
+#: inc/custom-controls/typography/class-typography-control.php:96
+msgid "Book 300"
+msgstr "Book 300"
+
+#: inc/custom-controls/typography/class-fonts.php:202
+#: inc/custom-controls/typography/class-typography-control.php:92
+msgid "Ultra-Light 100"
+msgstr "Ultra-Light 100"
+
+#: inc/custom-controls/typography/class-fonts.php:142
+msgctxt "font style"
+msgid "Lucida Console, Monaco"
+msgstr "Lucida Console, Monaco"
+
+#: inc/custom-controls/typography/class-fonts.php:138
+msgctxt "font style"
+msgid "Courier New, Courier"
+msgstr "Courier New, Courier"
+
+#: inc/custom-controls/typography/class-fonts.php:134
+msgctxt "font style"
+msgid "Verdana, Geneva"
+msgstr "Verdana, Geneva"
+
+#: inc/custom-controls/typography/class-fonts.php:130
+msgctxt "font style"
+msgid "Trebuchet MS, Helvetica"
+msgstr "Trebuchet MS, Helvetica"
+
+#: inc/custom-controls/typography/class-fonts.php:126
+msgctxt "font style"
+msgid "Tahoma, Geneva"
+msgstr "Tahoma, Geneva"
+
+#: inc/custom-controls/typography/class-fonts.php:122
+msgctxt "font style"
+msgid "Lucida Sans Unicode, Lucida Grande"
+msgstr "Lucida Sans Unicode, Lucida Grande"
+
+#: inc/custom-controls/typography/class-fonts.php:118
+msgctxt "font style"
+msgid "Impact, Charcoal"
+msgstr "Impact, Charcoal"
+
+#: inc/custom-controls/typography/class-fonts.php:114
+msgctxt "font style"
+msgid "Comic Sans MS, cursive"
+msgstr "Comic Sans MS, cursive"
+
+#: inc/custom-controls/typography/class-fonts.php:110
+msgctxt "font style"
+msgid "Arial Black, Gadget"
+msgstr "Arial Black, Gadget"
+
+#: inc/custom-controls/typography/class-fonts.php:106
+msgctxt "font style"
+msgid "Arial, Helvetica"
+msgstr "Arial, Helvetica"
+
+#: inc/custom-controls/typography/class-fonts.php:102
+msgctxt "font style"
+msgid "Times New Roman, Times"
+msgstr "Times New Roman, Times"
+
+#: inc/custom-controls/typography/class-fonts.php:98
+msgctxt "font style"
+msgid "Palatino Linotype, Book Antiqua, Palatino"
+msgstr "Palatino Linotype, Book Antiqua, Palatino"
+
+#: inc/custom-controls/typography/class-fonts.php:94
+msgctxt "font style"
+msgid "Georgia"
+msgstr "Georgia"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:369
+msgid "Hex Value"
+msgstr "Hex değeri"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:239
+msgid "Limit: %s rows"
+msgstr "Sınır: %s satır"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:83
+msgid "Add new %s"
+msgstr "Yeni %s ekle"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:75
+msgid "row"
+msgstr "satır"
+
+#: inc/custom-functions.php:312
+msgid "Comment"
+msgstr "Yorum"
+
+#: inc/custom-functions.php:297
+msgid "Website"
+msgstr "İnternet sitesi"
+
+#: inc/custom-functions.php:293
+msgid "Name*"
+msgstr "İsim*"
+
+#: inc/custom-functions.php:45
+msgid "Primary"
+msgstr "Birincil"
+
+#: inc/customizer/general.php:640
+msgid "Post Sidebar Layout"
+msgstr "Yazı Yan Sütun Yerleşimi"
+
+#: inc/customizer/general.php:614
+msgid "Page Sidebar Layout"
+msgstr "Sayfa yan sütun yerleşimi"
+
+#: inc/customizer/general.php:175
+msgid "Category"
+msgstr "Kategori"
+
+#: inc/customizer/general.php:1013
+msgid "Enable to show Instagram Section"
+msgstr "Instagram bölümünü göstermeyi etkinleştir"
+
+#: inc/customizer/general.php:1012
+msgid "Instagram Section"
+msgstr "Instagram bölümü"
+
+#: inc/customizer/general.php:991
+msgid "Instagram Settings"
+msgstr "Instagram ayarları"
+
+#: inc/customizer/general.php:886
+msgid "Show Featured Image"
+msgstr "Öne çıkan görseli görüntüle"
+
+#: inc/customizer/general.php:866
+msgid "Enable to hide posted date."
+msgstr "Yayınlama tarihini saklamayı etkinleştir."
+
+#: inc/customizer/general.php:824
+msgid "Enable to hide category."
+msgstr "Kategoriyi saklamayı etkinleştir."
+
+#: inc/customizer/general.php:778
+msgid "Related Posts Section Title"
+msgstr "İlgili yazılar bölüm başlığı"
+
+#: inc/customizer/general.php:758
+msgid "Enable to show related posts in single page."
+msgstr "İlgili yazıları tek bir sayfada göstermeyi etkinleştir."
+
+#: inc/customizer/general.php:688
+msgid "Automatically generated excerpt length (in words)."
+msgstr "Otomatik oluşturulan alıntı uzunluğu (kelime olarak)"
+
+#: inc/customizer/general.php:667
+msgid "Enable to show excerpt or disable to show full post content."
+msgstr "Alıntı göstermeyi etkinleştirin veya tüm yazı içeriğini göstermek için devre dışı bırakın."
+
+#: inc/customizer/general.php:666
+msgid "Enable Blog Excerpt"
+msgstr "Blogdan alıntıyı etkinleştir"
+
+#: inc/customizer/general.php:908
+msgid "Enable to hide prefix in archive page."
+msgstr "Arşiv sayfasındaki ön eki gizlemeyi etkinleştir."
+
+#: inc/customizer/general.php:907
+msgid "Hide Prefix in Archive Page"
+msgstr "Arşiv sayfasındaki ön eki gizle"
+
+#: inc/customizer/general.php:526
+msgid "Enable to show last updated post date on listing as well as in single post."
+msgstr "Tek bir yazının yanısıra, listelemede de en son yazı güncelleme tarihini göstermeyi etkinleştir."
+
+#: inc/customizer/general.php:525
+msgid "Enable Last Update Post Date"
+msgstr "En son yazı güncelleme tarihini etkinleştir"
+
+#: inc/customizer/general.php:504
+msgid "SEO Settings"
+msgstr "SEO ayarları"
+
+#: inc/customizer/general.php:439
+msgid "links"
+msgstr "bağlantılar"
+
+#: inc/customizer/general.php:433
+msgid "Link"
+msgstr "Bağlantı"
+
+#: inc/customizer/general.php:428
+msgid "Font Awesome Icon"
+msgstr "Yazı tipi Awesome simgesi"
+
+#: inc/customizer/general.php:424
+msgid "Social Links"
+msgstr "Sosyal ağ bağlantıları"
+
+#: inc/customizer/general.php:402
+msgid "Enable to show social links at header."
+msgstr "Sosyal ağ bağlantıları üst bölümde göstermeyi etkinleştir"
+
+#: inc/customizer/general.php:401
+msgid "Enable Social Links"
+msgstr "Sosyal ağ bağlantılarını etkinleştir"
+
+#: inc/customizer/general.php:380
+msgid "Social Media Settings"
+msgstr "Sosyal medya ayarları"
+
+#: inc/customizer/general.php:941
+msgid "Enable to show Newsletter Section"
+msgstr "Haber bülteni bölümünü göstermeyi etkinleştir"
+
+#: inc/customizer/general.php:16 build/dashboard.js:5898
+#: src/pages/Home/index.jsx:26
+msgid "General Settings"
+msgstr "Genel ayarlar"
+
+#: inc/customizer/footer.php:32
+msgid "Footer Copyright Text"
+msgstr "Alt kısım telif hakkı metni"
+
+#: inc/customizer/footer.php:13 build/dashboard.js:5905
+#: src/pages/Home/index.jsx:32
+msgid "Footer Settings"
+msgstr "Alt kısım ayarları"
+
+#: inc/woocommerce-functions.php:46
+msgid "Shop Sidebar"
+msgstr "Mağaza yan sütunu"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3675
+msgid "All installations have been completed."
+msgstr "Tüm kurulumlar tamamlandı."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3674
+msgid "%1$s installed successfully."
+msgstr "%1$s başarıyla kuruldu."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3672
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Kurulum işlemi başlıyor. Bu işlem, bazı ana bilgisayarlarda zaman alabilir, bu yüzden sabırlı olunuz."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3667
+msgid "All installations and activations have been completed."
+msgstr "Tüm kurulum ve etkinleştirmeler tamamlandı."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3682
+msgid "Hide Details"
+msgstr "Detayları gizle"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3682
+msgid "Show Details"
+msgstr "Detayları göster"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3666
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s başarıyla kuruldu ve etkinleştirildi."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3664
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Kurulum ve etkinleştirme işlemi başlıyor. Bu işlem, bazı ana bilgisayarlarda zaman alabilir, bu yüzden sabırlı olunuz."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3660
+msgid "The installation of %1$s failed."
+msgstr "%1$s kurulumu başarısız oldu."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3658
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "%1$s kurulurken bir hata oluştu: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3655
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Eklenti güncelleştiriliyor %1$s (%2$d/%3$d) "
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3310
+msgid "Plugin activation failed."
+msgstr "Eklenti etkinleştirmesi başarısız oldu."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3085
+msgid "No plugins are available to be activated at this time."
+msgstr "Şu an için etkinleştirilmeye hazır eklenti yok."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2952
+msgid "No plugins are available to be updated at this time."
+msgstr "Şu an için güncelleme gerektiren eklenti yok"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2950
+msgid "No plugins are available to be installed at this time."
+msgstr "Şu an için yüklenmeye uygun hiç eklenti yok."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2909
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Güncelleme için eklenti seçilmedi. Herhangi bir eylemde bulunulmadı. "
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2907
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Yükleme için eklenti seçilmedi. Herhangi bir eylemde bulunulmadı."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2876 build/dashboard.js:6358
+#: src/pages/UsefulPlugins/index.jsx:171
+msgid "Activate"
+msgstr "Etkinleştir"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2873
+msgid "Update"
+msgstr "Güncelle"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2867 build/dashboard.js:6352
+#: src/pages/UsefulPlugins/index.jsx:161
+msgid "Install"
+msgstr "Yükle"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2834
+msgid "Upgrade message from the plugin author:"
+msgstr "Eklenti geliştiricisinden yükseltme mesajı: "
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2762
+msgid "Activate %2$s"
+msgstr "Etkinleştir: %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2756
+msgid "Update %2$s"
+msgstr "Güncelle: %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2751
+msgid "Install %2$s"
+msgstr "Yükle: %2$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2702
+msgid "Status"
+msgstr "Durum"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2701
+msgid "Version"
+msgstr "Sürüm"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2697
+msgid "Type"
+msgstr "Tipi"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2696
+msgid "Source"
+msgstr "Kaynak"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2695
+msgid "Plugin"
+msgstr "Eklenti"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2681
+msgid "No plugins to install, update or activate."
+msgstr "Kurulacak, güncellenecek ya da etkinleştirilecek hiç bir eklenti yok."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2658
+msgid "Available version:"
+msgstr "Uygun sürüm:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2646
+msgid "Minimum required version:"
+msgstr "Gerekli en küçük sürüm:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2638
+msgid "Installed version:"
+msgstr "Yüklü sürüm:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2630
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "bilinmiyor"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2548
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Etkinleştirilecek <span class=\"count\">(%s)</span>"
+msgstr[1] "Etkinleştirilecek <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2544
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Güncelleme var <span class=\"count\">(%s)</span>"
+msgstr[1] "Güncelleme var <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2540
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Kurulacak <span class=\"count\">(%s)</span>"
+msgstr[1] "Kurulacak <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2536
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Tümü <span class=\"count\">(%s)</span>"
+msgstr[1] "Tümü <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/tgmpa/class-tgm-plugin-activation.php:2490
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s "
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2481
+msgid "Update recommended"
+msgstr "Güncelleme öneriliyor"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2478
+msgid "Requires Update"
+msgstr "Güncelleme gerektiriyor"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2475
+msgid "Required Update not Available"
+msgstr "Gerekli güncelleme uygun değil"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2469
+msgid "Active"
+msgstr "Etkin"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2467
+msgid "Installed But Not Activated"
+msgstr "Kurulmuş ancak etkinleştirilmemiş "
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2463
+msgid "Not Installed"
+msgstr "Kurulmamış"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2446
+msgid "Pre-Packaged"
+msgstr "Önceden paketlenmiş"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2443
+msgid "External Source"
+msgstr "Dış kaynak"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2424
+msgid "Recommended"
+msgstr "Önerilen"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2421
+msgid "Required"
+msgstr "Gerekli"
+
+#. translators: %s: version number
+#: inc/tgmpa/class-tgm-plugin-activation.php:2112
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1243
+#: inc/tgmpa/class-tgm-plugin-activation.php:3099
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "ve"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1052
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Uzak eklenti paketi birden çok dosya içeriyor fakat bunlar bir klasör içinde değil."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1042
+#: inc/tgmpa/class-tgm-plugin-activation.php:1052
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Lütfen eklenti sağlayıcısı ile irtibata geçip eklentilerini WordPress kurallarına göre paketlemelerini isteyin."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1042
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Uzak eklenti beklenen klasörü içermiyor ve isim değiştirme de işe yaramadı."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:617
+msgid "Update Required"
+msgstr "Güncelleme gerekli"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:616
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Temanızla uyum sağlayabilmesi için bu eklentinin güncellenmesi gerekiyor."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:410
+msgid "Please contact the administrator of this site for help."
+msgstr "Lütfen yardım için sitenin yöneticilerine ulaşın."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:409
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Kurulması, güncellenmesi veya etkinleştirilmesi gerekli veya önerilen bir ya da daha fazla eklenti var. "
+
+#. translators: 1: dashboard link.
+#: inc/tgmpa/class-tgm-plugin-activation.php:407
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Tüm eklentiler başarıyla kuruldu ve etkinleştirildi. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:405
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Eklenti etkinleştirilmedi. Bu tema için %s eklentisinin daha yüksek bir sürümü gerekiyor. Lütfen eklentiyi güncelleyin."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:403
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Herhangi bir eylemde bulunulmadı. %1$s eklentisi zaten etkin."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:400
+#: inc/tgmpa/class-tgm-plugin-activation.php:3311
+msgid "Plugin activated successfully."
+msgstr "Eklenti başarıyla etkinleştirildi."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:399
+msgid "Return to the Dashboard"
+msgstr "Gösterge paneline dön"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:398
+msgid "Return to Required Plugins Installer"
+msgstr "Gerekli eklenti kurulumuna dön"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:393
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Eklentiyi etkinleştirmeye başla"
+msgstr[1] "Eklentileri etkinleştirmeye başla"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:388
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Eklentiyi güncelleştirmeye başla"
+msgstr[1] "Eklentileri güncelleştirmeye başla"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:383
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Eklentiyi kurmaya başla"
+msgstr[1] "Eklentileri kurmaya başla"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:346
+msgid "Something went wrong with the plugin API."
+msgstr "Eklenti API'siyle ilgili bir şeyler yanlış gitti."
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:345
+msgid "Updating Plugin: %s"
+msgstr "Eklenti güncelleniyor: %s"
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:343
+msgid "Installing Plugin: %s"
+msgstr "Eklenti kuruluyor: %s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:341
+msgid "Install Plugins"
+msgstr "Eklentileri kur"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:340
+msgid "Install Required Plugins"
+msgstr "Gerekli eklentileri kur"
+
+#: inc/metabox.php:45
+msgid "Full Width"
+msgstr "Tam genişlik"
+
+#: inc/widgets.php:34
+msgid "Add footer three widgets here."
+msgstr "Alt kısım üç bileşenlerini buraya ekleyin."
+
+#: inc/widgets.php:32
+msgid "Footer Three"
+msgstr "Alt kısım Üç"
+
+#: inc/widgets.php:27
+msgid "Footer Two"
+msgstr "Alt kısım iki"
+
+#: inc/widgets.php:24
+msgid "Add footer one widgets here."
+msgstr "Alt kısım bir bileşenlerini buraya ekleyin."
+
+#: inc/extras.php:284
+msgid "Your comment is awaiting moderation."
+msgstr "Yorumunuz denetim için bekliyor."
+
+#: inc/extras.php:291
+msgid "%1$s at %2$s"
+msgstr "%1$s tarihinde, saat %2$s"
+
+#: inc/customizer/general.php:767 inc/partials.php:58
+#: inc/template-functions.php:901
+msgid "You may also like..."
+msgstr "Bunlar da hoşunuza gidebilir..."
+
+#. translators: %s: post title
+#: inc/extras.php:77
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "<span class=\"screen-reader-text\">%s için</span> bir yorum yapın "
+
+#: inc/extras.php:24
+msgid "updated on "
+msgstr "güncelleme tarihi"
+
+#: inc/extras.php:19
+msgid "on "
+msgstr "tarih"
+
+#: 404.php:22 inc/template-functions.php:263
+msgid "404"
+msgstr "404"
+
+#: 404.php:21
+msgid "The page you are looking for may have been moved, deleted, or possibly never existed."
+msgstr "Aradığınız sayfa taşınmış, silinmiş veya hiç yazılmamış olabilir. "
+
+#: 404.php:17
+msgid "Uh-Oh..."
+msgstr "Tüh..."
+
+#: inc/template-functions.php:886
+msgid "Page"
+msgstr "Sayfa"
+
+#: inc/template-functions.php:256
+msgid "Showing %1$s Result(s)%2$s"
+msgstr "%1$s Sonuç(lar)%2$s gösteriliyor "
+
+#: inc/partials.php:37
+msgid " Copyright "
+msgstr "Telif hakkı"
+
+#: inc/customizer/general.php:566
+msgid "Breadcrumb Home Text"
+msgstr "Ana metin bağlantı haritası "
+
+#: inc/customizer/general.php:546
+msgid "Enable Breadcrumb"
+msgstr "Bağlantı haritasını etkinleştir"
+
+#: inc/template-functions.php:579
+msgid "404 Error - Page Not Found"
+msgstr "404 Hatası - Sayfa bulunamadı"
+
+#: inc/template-functions.php:401
+msgid "Search Results for \""
+msgstr "Arama sonuçları: \""
+
+#: inc/custom-controls/typography/class-fonts.php:219
+#: inc/custom-controls/typography/class-typography-control.php:109
+msgid "Ultra-Bold 900 Italic"
+msgstr "Ultra-Bold 900 Italic"
+
+#: inc/typography.php:28
+msgctxt "Site Title Font: on or off"
+msgid "on"
+msgstr "açık"
+
+#: inc/typography.php:27
+msgctxt "Secondary Font: on or off"
+msgid "on"
+msgstr "açık"
+
+#. Translators: If there are characters in your language that are not supported
+#. by respective fonts, translate this to 'off'. Do not translate into your own
+#. language.
+#: inc/typography.php:26
+msgctxt "Primary Font: on or off"
+msgid "on"
+msgstr "açık"
+
+#: inc/template-functions.php:885
+msgid "<i class=\"fa fa-angle-right\"></i>"
+msgstr "<i class=\"fa fa-angle-right\"></i>"
+
+#: inc/template-functions.php:884
+msgid "<i class=\"fa fa-angle-left\"></i>"
+msgstr "<i class=\"fa fa-angle-left\"></i>"
+
+#: inc/template-functions.php:864
+msgid "Next Article"
+msgstr "Sonraki makale"
+
+#: inc/template-functions.php:856
+msgid "Previous Article"
+msgstr "Önceki makale"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-functions.php:769
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Okumaya devam et<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: inc/template-functions.php:410
+msgid "d"
+msgstr "d"
+
+#: inc/template-functions.php:408 inc/template-functions.php:410
+#: inc/template-functions.php:417
+msgid "m"
+msgstr "m"
+
+#: inc/extras.php:409
+msgid "Lucida Console, Monaco"
+msgstr "Lucida Console, Monaco"
+
+#: inc/extras.php:408
+msgid "Courier New, Courier"
+msgstr "Courier New, Courier"
+
+#: inc/extras.php:407
+msgid "Verdana, Geneva"
+msgstr "Verdana, Geneva"
+
+#: inc/extras.php:406
+msgid "Trebuchet MS, Helvetica"
+msgstr "Trebuchet MS, Helvetica"
+
+#: inc/extras.php:405
+msgid "Tahoma, Geneva"
+msgstr "Tahoma, Geneva"
+
+#: inc/extras.php:404
+msgid "Lucida Sans Unicode, Lucida Grande"
+msgstr "Lucida Sans Unicode, Lucida Grande"
+
+#: inc/extras.php:403
+msgid "Impact, Charcoal"
+msgstr "Impact, Charcoal"
+
+#: inc/extras.php:402
+msgid "Comic Sans MS, cursive"
+msgstr "Comic Sans MS, cursive"
+
+#: inc/extras.php:401
+msgid "Arial Black, Gadget"
+msgstr "Arial Black, Gadget"
+
+#: inc/extras.php:400
+msgid "Arial, Helvetica"
+msgstr "Arial, Helvetica"
+
+#: inc/extras.php:399
+msgid "Times New Roman, Times"
+msgstr "Times New Roman, Times"
+
+#: inc/extras.php:398
+msgid "Palatino Linotype, Book Antiqua, Palatino"
+msgstr "Palatino Linotype, Book Antiqua, Palatino"
+
+#: inc/extras.php:397
+msgid "Georgia"
+msgstr "Georgia"
+
+#: inc/extras.php:289
+msgid "Posted on"
+msgstr "Yayın tarihi"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/extras.php:101
+msgid ", "
+msgstr ", "
+
+#. translators: %s: post author.
+#: inc/extras.php:58
+msgctxt "post author"
+msgid "by %s"
+msgstr "Geliştirici: %s"
+
+#: inc/customizer/general.php:737
+msgid "These options affect your individual posts."
+msgstr "Bu seçenekler her bir yazınızı etkiler. "
+
+#: inc/customizer/general.php:584
+msgid "Breadcrumb Separator"
+msgstr "Bağlantı haritası ayracı"
+
+#: inc/customizer/general.php:574 inc/template-functions.php:281
+msgid "/"
+msgstr "/"
+
+#: inc/customizer/general.php:434
+msgid "Example: http://facebook.com"
+msgstr "Örnek: http://facebook.com"
+
+#: inc/customizer/general.php:270
+msgid "Slide"
+msgstr "Slayt"
+
+#: inc/customizer/appearance.php:67
+msgid "Secondary Font"
+msgstr "İkincil yazı tipi"
+
+#: inc/customizer/appearance.php:45
+msgid "Primary Font"
+msgstr "Birincil yazı tipi"
+
+#: inc/customizer/appearance.php:25
+msgid "Typography"
+msgstr "Tipografi"
+
+#: inc/customizer/appearance.php:16
+msgid "Appearance Settings"
+msgstr "Görünüm ayarları"
+
+#: inc/custom-functions.php:372
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/custom-functions.php:293
+msgid "Name"
+msgstr "İsim"
+
+#: inc/custom-functions.php:46
+msgid "Secondary"
+msgstr "İkincil"
+
+#: inc/custom-functions.php:295
+msgid "Email*"
+msgstr "E-Posta*"
+
+#: inc/customizer/general.php:615
+msgid "This is the general sidebar layout for pages. You can override the sidebar layout for individual page in respective page."
+msgstr "Bu sayfalar için genel yan sütun yerleşimidir. Yan sütun yerleşimini belirli sayfalar için ilgili sayfalarda değiştirebilirsiniz."
+
+#: inc/customizer/general.php:687
+msgid "Excerpt Length"
+msgstr "Alıntı uzunluğu"
+
+#: inc/customizer/general.php:593
+msgid "Posts(Blog) & Pages Settings"
+msgstr "Yazı(blog) & sayfa ayarları"
+
+#: inc/customizer/appearance.php:68
+msgid "Secondary font of the site."
+msgstr "Sitenin ikincil yazı tipi."
+
+#: inc/customizer/color.php:23
+msgid "Primary Color"
+msgstr "Birincil renk"
+
+#: inc/customizer/appearance.php:46
+msgid "Primary font of the site."
+msgstr "Sitenin birincil yazı tipi."
+
+#: inc/customizer/appearance.php:17
+msgid "Customize Typography, Header Image & Background Image"
+msgstr "Tipografiyi, başlık görselini & arka plan görselini özelleştirin"
+
+#: inc/custom-functions.php:374
+msgid "F j, Y"
+msgstr "j F Y"
+
+#: inc/customizer/general.php:844
+msgid "Hide Author"
+msgstr "Yazarı gizle"
+
+#: inc/template-functions.php:408 inc/template-functions.php:417
+msgid "F"
+msgstr "C"
+
+#: inc/widgets.php:17
+msgid "Sidebar"
+msgstr "Yan sütun"
+
+#: inc/extras.php:352
+msgid "Choose Category"
+msgstr "Kategori seç"
+
+#: inc/extras.php:234 inc/extras.php:247
+msgid "Click here to add a menu"
+msgstr "Menü eklemek için buraya tıklayın"
+
+#: inc/customizer/general.php:174
+msgid "Latest Posts"
+msgstr "Son yazılar"
+
+#: inc/metabox.php:17 inc/metabox.php:28
+msgid "Sidebar Layout"
+msgstr "Yan sütun yerleşimi"
+
+#: inc/metabox.php:67
+msgid "Choose Sidebar Template"
+msgstr "Yan sütun şablonunu seç"
+
+#: inc/metabox.php:55
+msgid "Right Sidebar"
+msgstr "Sağ yan sütun"
+
+#: inc/metabox.php:50
+msgid "Left Sidebar"
+msgstr "Sol yan sütun"
+
+#: inc/widgets.php:29
+msgid "Add footer two widgets here."
+msgstr "Alt kısım iki bileşenlerini buraya ekleyin."
+
+#: inc/widgets.php:22
+msgid "Footer One"
+msgstr "Alt kısım bir"
+
+#: inc/customizer/general.php:940
+msgid "Newsletter Section"
+msgstr "Haber bülteni bölümü"
+
+#: inc/metabox.php:40 inc/widgets.php:19
+msgid "Default Sidebar"
+msgstr "Varsayılan yan sütun"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:408
+msgid "Dismiss this notice"
+msgstr "Bu uyarıyı yok say."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:401
+#: inc/tgmpa/class-tgm-plugin-activation.php:3103
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Aşağıdaki eklenti başarıyla etkinleştirildi:"
+msgstr[1] "Aşağıdaki eklentiler başarıyla etkinleştirildi:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2440
+msgid "WordPress Repository"
+msgstr "WordPress dizini"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3669
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Eklenti %1$s (%2$d/%3$d) kuruluyor ve etkinleştiriliyor"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3059
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Etkinleştirilecek bir eklenti seçilmedi. İşlem yapılmadı."
+
+#: inc/customizer/general.php:961
+msgid "Enter the BlossomThemes Email Newsletters Shortcode. Ex. [BTEN id=\"356\"]"
+msgstr "BlossomThemes e-posta haber bültenleri kısa kodunu girin. Örnek [BTEN id=\"356\"]"
+
+#: inc/customizer/general.php:960
+msgid "Newsletter Shortcode"
+msgstr "Haber bülteni kısa kodu"
+
+#: inc/customizer/general.php:218
+msgid "Choose the number of slides you want to display"
+msgstr "Görüntülemek istediğiniz slayt sayısını seçin"
+
+#: inc/customizer/general.php:217
+msgid "Number of Slides"
+msgstr "Slayt sayısı"
+
+#: inc/woocommerce-functions.php:48
+msgid "Sidebar displaying only in woocommerce pages."
+msgstr "Yan sütun yalnızca woocommerce sayfalarında görüntüleniyor."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3677
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Eklenti %1$s (%2$d/%3$d) kuruluyor"
+
+#: inc/customizer/general.php:865
+msgid "Hide Posted Date"
+msgstr "Yayımlama tarihini sakla"
+
+#: inc/customizer/general.php:823
+msgid "Hide Category"
+msgstr "Kategoriyi sakla"
+
+#: inc/customizer/general.php:757
+msgid "Show Related Posts"
+msgstr "İlgili yazıları göster"
+
+#: inc/customizer/general.php:981
+msgid "Please install and activate the recommended plugin %1$sBlossomThemes Email Newsletter%2$s. After that option related with this section will be visible."
+msgstr "Lütfen önerilen %1$sBlossomThemes E-posta Haber Bülteni%2$s eklentisini yükleyin ve etkinleştirin. Bu bölüm ile ilgili seçenek ancak sonrasında görüntülenecektir."
+
+#: inc/customizer/general.php:713
+msgid "Read More Text"
+msgstr "Devamını okuyun"
+
+#: inc/customizer/general.php:702 inc/partials.php:49
+#: inc/template-functions.php:802
+msgid "Read More"
+msgstr "Devamını okuyun"
+
+#: inc/custom-controls/typography/class-fonts.php:204
+#: inc/custom-controls/typography/class-typography-control.php:94
+msgid "Light 200"
+msgstr "Light 200"
+
+#: inc/custom-controls/typography/class-fonts.php:203
+#: inc/custom-controls/typography/class-typography-control.php:93
+msgid "Ultra-Light 100 Italic"
+msgstr "Ultra-Light 100 Italic"
+
+#: inc/custom-controls/typography/class-fonts.php:218
+#: inc/custom-controls/typography/class-typography-control.php:108
+msgid "Ultra-Bold 900"
+msgstr "Ultra-Bold 900"
+
+#: inc/custom-controls/typography/class-fonts.php:217
+#: inc/custom-controls/typography/class-typography-control.php:107
+msgid "Extra-Bold 800 Italic"
+msgstr "Extra-Bold 800 Italic"
+
+#: inc/custom-controls/typography/class-fonts.php:215
+#: inc/custom-controls/typography/class-typography-control.php:105
+msgid "Bold 700 Italic"
+msgstr "Bold 700 Italic"
+
+#: inc/custom-controls/typography/class-fonts.php:214
+#: inc/custom-controls/typography/class-typography-control.php:104
+msgid "Bold 700"
+msgstr "Bold 700"
+
+#: inc/custom-controls/typography/class-fonts.php:213
+#: inc/custom-controls/typography/class-typography-control.php:103
+msgid "Semi-Bold 600 Italic"
+msgstr "Semi-Bold 600 Italic"
+
+#: inc/custom-controls/typography/class-fonts.php:212
+#: inc/custom-controls/typography/class-typography-control.php:102
+msgid "Semi-Bold 600"
+msgstr "Semi-Bold 600"
+
+#: inc/custom-controls/typography/class-fonts.php:211
+#: inc/custom-controls/typography/class-typography-control.php:101
+msgid "Medium 500 Italic"
+msgstr "Medium 500 Italic"
+
+#: inc/custom-controls/typography/class-fonts.php:210
+#: inc/custom-controls/typography/class-typography-control.php:100
+msgid "Medium 500"
+msgstr "Medium 500"
+
+#: inc/custom-controls/typography/class-fonts.php:209
+#: inc/custom-controls/typography/class-typography-control.php:99
+msgid "Normal 400 Italic"
+msgstr "Normal 400 Italic"
+
+#: inc/custom-controls/typography/class-fonts.php:205
+#: inc/custom-controls/typography/class-typography-control.php:95
+msgid "Light 200 Italic"
+msgstr "Light 200 Italic"
+
+#: inc/custom-controls/typography/class-typography-control.php:71
+msgid "Line Height"
+msgstr "Satır yüksekliği"
+
+#: comments.php:53
+msgid "Comments are closed."
+msgstr "Yorumlar kapalı."
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s Yorum"
+msgstr[1] "%1$s Yorumlar"
+
+#: template-parts/content-none.php:65
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Üzgünüm ama arama terimlerinizle hiçbir şey eşleşmedi. Lütfen farklı anahtar kelimelerle tekrar deneyin."
+
+#: inc/customizer/general.php:265
+msgid "Fade Out"
+msgstr "Solarak çıkış"
+
+#: inc/customizer/general.php:262
+msgid "Slider Animation"
+msgstr "Slayt Gösterici animasyonu"
+
+#: inc/customizer/general.php:152
+msgid "Enable Slider"
+msgstr "Slayt göstericiyi etkinleştir"
+
+#: inc/customizer/general.php:17
+msgid "Customize Slider, Featured, Social, SEO, Post/Page, Newsletter & Instagram settings."
+msgstr "Slayt göstericisi, öne çıkanları, sosyal ağ, SEO, yazı/sayfa, haber bülteni mektubu & Instagram ayarlarını özelleştirin."
+
+#: inc/customizer/color.php:24
+msgid "Primary color of the theme."
+msgstr "Temanın birincil rengi"
+
+#: inc/customizer/appearance.php:91
+msgid "Change the font size of your site."
+msgstr "Sitenizin yazı tipi boyutunu değiştirin."
+
+#: 404.php:23
+msgid "TAKE ME TO THE HOME PAGE"
+msgstr "Ana sayfaya dön"
+
+#: inc/customizer/general.php:429
+msgid "Example: fa-bell"
+msgstr "Örnek: fa-bell"
+
+#: inc/customizer/general.php:368
+msgid "Featured Content Three"
+msgstr "Öne çıkan içerik üç"
+
+#: inc/customizer/general.php:347
+msgid "Featured Content Two"
+msgstr "Öne çıkan içerik iki"
+
+#: inc/customizer/general.php:326
+msgid "Featured Content One"
+msgstr "Öne çıkan içerik bir"
+
+#: inc/customizer/general.php:307
+msgid "Enable to show Featured Area in home page."
+msgstr "Ana sayfada öne çıkan alanını göstermeyi etkinleştir."
+
+#: inc/customizer/general.php:285
+msgid "Featured Area Settings"
+msgstr "Öne çıkan alan ayarları"
+
+#: inc/customizer/general.php:306
+msgid "Enable Featured Area"
+msgstr "Öne çıkan alanı etkinleştir"
+
+#: inc/customizer/general.php:274
+msgid "Slide Out Down"
+msgstr "Aşağıya kayarak çıkış"
+
+#: inc/customizer/general.php:273
+msgid "Slide Out Up"
+msgstr "Yukarıya kayarak çıkış"
+
+#: inc/customizer/general.php:272
+msgid "Slide Out Right"
+msgstr "Sağa kayarak çıkış "
+
+#: inc/customizer/general.php:271
+msgid "Slide Out Left"
+msgstr "Sola kayarak çıkış"
+
+#: inc/customizer/general.php:269
+msgid "Fade Out Down"
+msgstr "Aşağıya doğru solarak"
+
+#: inc/customizer/general.php:268
+msgid "Fade Out Up"
+msgstr "Yukarıya doğru solarak"
+
+#: inc/customizer/general.php:267
+msgid "Fade Out Right"
+msgstr "Sağa doğru solarak "
+
+#: inc/customizer/general.php:266
+msgid "Fade Out Left"
+msgstr "Sağa doğru solarak"
+
+#: inc/widgets.php:39
+msgid "Add footer four widgets here."
+msgstr "Alt kısım dört bileşenlerini buraya ekleyin."
+
+#: inc/widgets.php:37
+msgid "Footer Four"
+msgstr "Alt kısım dört "
+
+#: inc/template-functions.php:1119
+msgid "TOP"
+msgstr "Üst"
+
+#: inc/extras.php:326
+msgid " -- Choose -- "
+msgstr "Seç"
+
+#: inc/customizer/site.php:67
+msgid "Site Title Font Size"
+msgstr "Site başlığı yazı tipi boyutu"
+
+#: inc/customizer/site.php:68
+msgid "Change the font size of your site title."
+msgstr "Site başlığı yazı tipi boyutunu değiştirin."
+
+#: inc/customizer/site.php:45
+msgid "Site title and tagline font."
+msgstr "Site başlığı ve etiket satırı yazı tipi"
+
+#: inc/customizer/site.php:44
+msgid "Site Title Font"
+msgstr "Site başlığı yazı tipi"
+
+#: inc/customizer/general.php:918
+msgid "Newsletter Settings"
+msgstr "Haber bülteni ayarları"
+
+#: inc/customizer/general.php:887
+msgid "Enable to show featured image in post detail (single page)."
+msgstr "Öne çıkan görseli yazının detayında (tek sayfa) göstermeyi etkinleştir."
+
+#: inc/customizer/general.php:845
+msgid "Enable to hide author section."
+msgstr "Yazar bölümünü saklamayı etkinleştir."
+
+#: inc/customizer/general.php:641
+msgid "This is the general sidebar layout for posts. You can override the sidebar layout for individual post in respective post."
+msgstr "Bu sayfalar için genel yan sütun yerleşimidir. Yan sütun yerleşimini belirli sayfalar için ilgili sayfalarda değiştirebilirsiniz."
+
+#: inc/customizer/general.php:195
+msgid "Slider Category"
+msgstr "Slayt gösterisi kategorisi"
+
+#: inc/customizer/general.php:171
+msgid "Slider Content Style"
+msgstr "Slay gösterisi içerik stili"
+
+#: inc/customizer/general.php:131
+msgid "Slider Settings"
+msgstr "Slayt gösterisi ayarları"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://blossomthemes.com/wordpress-themes/blossom-feminine/"
+msgstr "https://blossomthemes.com/wordpress-themes/blossom-feminine/"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://blossomthemes.com/"
+msgstr "https://blossomthemes.com/"
+
+#. Author of the theme
+#: style.css inc/template-functions.php:1087
+#, gp-priority: low
+msgid "Blossom Themes"
+msgstr "Blossom Themes"

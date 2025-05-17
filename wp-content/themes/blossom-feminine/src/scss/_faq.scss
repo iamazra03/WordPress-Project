@@ -1,0 +1,42 @@
+.cw-dashboard {
+    .faq-item {
+        padding: 24px 0;
+
+        &:not(:last-child) {
+            border-bottom: 1px solid $border-color;
+        }
+
+        .faq-title {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+
+            h2,svg {
+                cursor: pointer;
+                transition: color 0.3s ease-in-out;
+
+                &:hover,
+                &.active {
+                    color: $primary-color;
+                }
+            }
+        }
+
+        .faq-description {
+            margin-top: 8px;
+
+            p:last-child {
+                margin-bottom: 0;
+            }
+        }
+
+        a {
+            color: $primary-color;
+            transition: opacity 0.3s ease-in-out;
+
+            &:hover {
+                opacity: 0.7;
+            }
+        }
+    }
+}

@@ -1,0 +1,32 @@
+.cw-offer {
+    .banner-section {
+        .image-link {
+            margin-bottom: 24px;
+        }
+    }
+
+    .card-section {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 24px;
+
+        @media screen and (max-width: 768px) {
+            grid-template-columns: repeat(2, 1fr);
+        }
+
+        @media screen and (max-width: 576px) {
+            grid-template-columns: repeat(1, 1fr);
+        }
+    }
+
+    .image-link {
+        display: block;
+
+        img {
+            display: block;
+            width: 100%;
+            border-radius: 16px;
+        }
+    }
+
+}

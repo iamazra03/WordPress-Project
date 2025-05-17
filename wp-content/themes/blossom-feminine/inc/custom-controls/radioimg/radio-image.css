@@ -1,0 +1,46 @@
+/*Radio Image Button */
+.customize-control-blossom-feminine-radio-image label {
+    position: relative;
+    display: inline-block; 
+}
+.customize-control-blossom-feminine-radio-image input {
+    display: none; 
+}
+.customize-control-blossom-feminine-radio-image input img {
+    border: 1px solid transparent; 
+}
+.customize-control-blossom-feminine-radio-image input:checked + label img {
+    -webkit-box-shadow: 0 0 5px 2px rgba(0, 0, 0, 0.25);
+    box-shadow: 0 0 5px 2px rgba(0, 0, 0, 0.25);
+    border: 1px solid #3498DB; 
+}
+.customize-control-blossom-feminine-radio-image input + label .image-clickable {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+}
+.featured-pro {
+    background: #f89300;
+    color: #fff !important;
+    font-size:  16px;
+    padding: 8px 15px;
+}
+
+.featured-pro a {
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #fff;
+}
+
+.featured-pro a:hover {
+    opacity: 0.8;
+}
+
+.customize-control-blossom-feminine-radio-image .image.upg-to-pro input:checked+label img {
+    border: none;
+    box-shadow: none;
+}
+/*Radio Image Button Ends */
